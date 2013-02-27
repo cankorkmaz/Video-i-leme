@@ -5,7 +5,7 @@ sarılma tespiti
 
 HAZIRLAYANLAR
 
-Semih Özköroğlu | http://sozkoroglu.me
+Semih Özköroğlu/n 
 Murat Yiğit
 Ahmet Karafilik
 Serkan Kurt
