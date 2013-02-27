@@ -65,7 +65,7 @@ sarılma eyleminin olmadığı , 14 adet video
 doğru analizi almak için arkaplanı sabit olan
 bir çalışma ortamı tercih edildi.
 
-3. ALGORİTMA 'NIN GERÇEKLENMESİ
+ALGORİTMA 'NIN GERÇEKLENMESİ
         
 Uygulama kullanıcı etkileşimli bir
 arayüz sunmaktadır.Bu arayüz ile
