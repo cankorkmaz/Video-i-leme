@@ -5,11 +5,13 @@ sarılma tespiti
 
 HAZIRLAYANLAR
 
-Semih Özköroğlu/n 
-Murat Yiğit
-Ahmet Karafilik
-Serkan Kurt
+Semih Özköroğlu// 
+Murat Yiğit//
+Ahmet Karafilik//
+Serkan Kurt//
 Can Korkmaz
+
+
 AÇIKLAMA
 
 Uygulama kullanıcı etkileşimli bir arayüz sunmaktadır.Bu arayüz ile kullanıcıdan işlenmesi istenilen bir video seçmesini ve her bir videonun arkaplan modellemesi ile standart sapmasını oluşturmak amacı ile başlangıç ve bitiş frame aralığı seçmesini istenmektedir. Genel olarak bu aralık [1 - 25] olarak belirlenmektedir. Eğer video'nun arkaplan görüntüsünde çok fazla sapmalar var ise bu değer aralığını daha büyük seçmek daha uygun olur.
@@ -24,6 +26,4 @@ Bu aşamada enkars methodu ile etkileşimde olan frame'lerin BoundingBox ve Ecce
 
 En son aşamamız olan eleme methodu ile bir önceki aşamamızdan gelen framelerden en küçük alan'a sahip olanı seçilir.Sebebi ise tam sarılma anında toplam pixel sayısı, birbirine temas halinde olan diğer frame'lere göre daha az olmaktadır. Alanı en küçük olan frame'mizde seçildikten sonra elimizde tek bir frame bulunmaktadır ancak bu frame'in tam olarak sarılma anı olduğu ispatlamak için belirlenen sayıda imerode methodu uygulayarak eğer elimizdeki frame üzerinde parçalanmalar meydana gelmiyor ise bu frame'mimizin tam olarak sarılma videosu olduğunu ispatlamış oluyoruz.
 
-YOUTUBE
 
-Youtube üzerinde uygulamanın gerçeklemesini anlatan video'yu izlemek için Tıklayınız.
