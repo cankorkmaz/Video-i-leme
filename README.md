@@ -137,7 +137,9 @@ videosu olduğunu ispatlamış oluyoruz.
 YOUTUBE
 
 Youtube üzerinde uygulamanın gerçeklemesini anlatan video'yu izlemek için 
+http://www.youtube.com/watch?v=OZWBbRdZWXI&feature=youtu.be
 
 BİLDİRİ
 
 Uygulamanın bildirisine ulaşmak için 
+https://docs.google.com/a/bil.omu.edu.tr/file/d/0B-ufRWgXeEyBRHhCczZPTG5URXc/edit
