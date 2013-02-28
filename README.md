@@ -134,3 +134,10 @@ methodu uygulayarak eğer elimizdeki frame
 ise bu frame'mimizin tam olarak sarılma
 videosu olduğunu ispatlamış oluyoruz.
 
+YOUTUBE
+
+Youtube üzerinde uygulamanın gerçeklemesini anlatan video'yu izlemek için 
+
+BİLDİRİ
+
+Uygulamanın bildirisine ulaşmak için 
